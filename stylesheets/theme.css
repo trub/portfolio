@@ -1,3 +1,19 @@
+.space {
+	margin-bottom: 50px;
+}
+
+.border-bottom {
+	border-bottom: 1px solid whitesmoke;
+	margin-top:-20px;
+}
+
+hr {
+	width: 70%;
+	color: whitesmoke;
+	margin: 0 auto;
+	padding: 10px;
+	}
+
 /*** Buttons ***/
 
 .launch-button a {
@@ -581,12 +597,12 @@
 /*** Headings ***/
 
 h1 {
-	font-weight: 100;
 	letter-spacing: -1px;
+	color: #F7FF65
 }
 
 h2 {
-	font-weight: 100;
+	font-weight: 300;
 }
 
 h4 {
@@ -600,7 +616,6 @@ h4 {
 
 .section-title h2 {
 	display: inline-block;
-	border: 1px solid #666;
 	border-radius: 7px;
 	padding: 6px 10px 10px;
 }
@@ -614,6 +629,18 @@ h4 {
 .section-description h3 {
 	padding-bottom: 10px;
 }
+
+.case-study {
+	width: 72%;
+	margin: 0 auto;
+	padding: 10px 0;
+	text-align: left;
+}
+
+.button-case a {
+	color: #fff;
+}
+
 
 .tag {
 	color: #22C3F4;
