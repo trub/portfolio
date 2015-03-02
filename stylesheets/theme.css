@@ -697,7 +697,10 @@ small.error {
 .footer-social a {
 	padding: 0 12px;
 	font-size: 40px;
-	color: #22C3F4;
+	color: #E4FF49;
+}
+.link a {
+	color: #E4FF49;
 }
 .footer-social a > :hover {
 	color: #EF4E4E;
