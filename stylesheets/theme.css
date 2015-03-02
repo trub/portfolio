@@ -4,7 +4,6 @@
 
 .border-bottom {
 	border-bottom: 1px solid whitesmoke;
-	margin-top:-20px;
 }
 
 hr {
@@ -443,7 +442,7 @@ hr {
 }
 
 .overview-feature-image img {
-	max-width: 120px;
+	max-width: 90px;
 	display: inline-block;
 }
 
