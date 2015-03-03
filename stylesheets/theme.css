@@ -1,3 +1,8 @@
+section .wireframe {
+max-width: 80%;
+box-shadow: 0 0 3px #383838;
+}
+
 .logo-left ul > li > a{
 	text-align: left; 
 }
