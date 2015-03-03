@@ -86,7 +86,7 @@ hr {
 }
 
 .bg-purple.with-photo {
-	background: linear-gradient(rgba(25, 16, 41, 0.8), rgba(98, 96, 120, 0.8)), url("../images/with-photo-section/with_photo.png") no-repeat center center fixed;
+	background: linear-gradient(rgba(25, 16, 41, 0.8), rgba(98, 96, 120, 0.8)), url("../images/with-photo-section/with_photo.jpg") no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
