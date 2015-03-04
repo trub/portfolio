@@ -2431,6 +2431,7 @@ button,.button {
     padding-left: 2rem;
     font-size: 1rem;
     background-color: #008cba;
+    border-radius: 4px;
     border-color: #0079a1;
     color: #fff;
     -webkit-transition: background-color 300ms ease-out;
