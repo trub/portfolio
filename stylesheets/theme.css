@@ -430,10 +430,11 @@ hr {
 	left: 0;
 	right: 0;
 	text-align: center;
+	opacity: .75;
 }
 
 .hero-scroll a {
-	font-size: 32px;
+	font-size: 24px;
 	display: inline-block;
 	-webkit-transition: font-size 0.2s ease;
     -moz-transition: font-size 0.2s ease;
@@ -442,6 +443,20 @@ hr {
 
 .hero-scroll a:hover {
 	font-size: 40px;
+	-webkit-transition: font-size 0.2s ease;
+    -moz-transition: font-size 0.2s ease;
+    transition: font-size 0.2s ease;
+}
+
+.hero-scroll p {
+	font-size: 14px;
+	-webkit-transition: font-size 0.2s ease;
+    -moz-transition: font-size 0.2s ease;
+    transition: font-size 0.2s ease;
+}
+
+.hero-scroll p:hover {
+	font-size: 16px;
 	-webkit-transition: font-size 0.2s ease;
     -moz-transition: font-size 0.2s ease;
     transition: font-size 0.2s ease;

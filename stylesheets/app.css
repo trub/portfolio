@@ -5354,9 +5354,10 @@ strong,b {
 }
 
 small {
-    font-size: 1.1rem;
-    line-height: inherit
+    font-size: 1.0rem;
+    line-height: inherit;
 }
+
 
 code {
     font-family: Consolas,"Liberation Mono",Courier,monospace;
@@ -5763,6 +5764,7 @@ meta.foundation-mq-topbar {
     left: 0;
     position: relative;
     width: auto;
+    opacity: .7;
     -webkit-transition: left 300ms ease-out;
     -moz-transition: left 300ms ease-out;
     transition: left 300ms ease-out
