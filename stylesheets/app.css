@@ -1,3 +1,8 @@
+button {
+    box-shadow: 2px 2px 13px #c5c5c5;
+    background-color: #1cbde0 !important;
+}
+
 meta.foundation-mq-small {
     font-family: "/only screen and (max-width: 40em)/";
     width: 0em
