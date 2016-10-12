@@ -665,6 +665,13 @@ h4 {
 	text-align: left;
 }
 
+.case-study-center {
+	width: 72%;
+	margin: 0 auto;
+	padding: 10px 0;
+	text-align: center;
+}
+
 .button-case a {
 	color: #fff;
 }
