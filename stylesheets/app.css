@@ -5779,7 +5779,7 @@ meta.foundation-mq-topbar {
     width: 100%;
     height: auto;
     display: block;
-    background: #22C3F4;
+    /*background: #22C3F4;*/
     font-size: 16px;
     margin: 0
 }
